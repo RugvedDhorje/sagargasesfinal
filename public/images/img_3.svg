@@ -1,0 +1,66 @@
+<!-- <svg id="eAhmdJtMzon1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 37 49" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style><![CDATA[
+#eAhmdJtMzon8 {animation: eAhmdJtMzon8_s_do 3000ms linear infinite normal forwards}@keyframes eAhmdJtMzon8_s_do { 0% {stroke-dashoffset: 82.06} 33.333333% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}} #eAhmdJtMzon9 {animation: eAhmdJtMzon9_s_do 3000ms linear infinite normal forwards}@keyframes eAhmdJtMzon9_s_do { 0% {stroke-dashoffset: 10.79} 16.666667% {stroke-dashoffset: 10.79} 43.333333% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}}
+]]></style>
+    <g clip-path="url(#eAhmdJtMzon10)">
+        <g>
+            <path d="M30.1667,32.429l5.354,10.2244-7.7442-2.1221-2.677,7.6201-5.9276-11.3819"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linejoin="round"
+                stroke-miterlimit="10" />
+            <path d="M6.83448,32.429L1.48047,42.6534l7.74419-2.1221l2.67704,7.6201l5.9276-11.3819"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linejoin="round"
+                stroke-miterlimit="10" />
+            <path
+                d="M22.7571,1.48267C30.5013,3.4118,36.2377,10.4531,36.2377,18.8449c0,9.935-7.9354,17.9409-17.7829,17.9409s-17.782925-8.0059-17.782925-17.9409c0-8.3918,5.736415-15.4331,13.480625-17.36223"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M19.4082,0.964567c0,.578743-.3824.964563-.956.964563-.5737,0-.9561-.38582-.9561-.964563s.3824-.964567.9561-.964567c.5736,0,.956.385827.956.964567Z"
+                fill="#365888" />
+            <path id="eAhmdJtMzon8"
+                d="M18.4557,32.0338c-7.1705,0-13.00258-5.8838-13.00258-13.1181s5.83208-13.11809,13.00258-13.11809s13.0026,5.88389,13.0026,13.11809-5.832,13.1181-13.0026,13.1181Z"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="82.06" stroke-dasharray="82.06" />
+            <path id="eAhmdJtMzon9" d="M16.5898,14.4736h1.9122v8.874" fill="none" stroke="#365888"
+                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="10.79" stroke-dasharray="10.79" />
+        </g>
+        <clipPath id="eAhmdJtMzon10">
+            <rect width="37" height="49" rx="0" ry="0" fill="#fff" />
+        </clipPath>
+    </g>
+</svg> -->
+<svg id="eAhmdJtMzon1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 37 49" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style><![CDATA[
+#eAhmdJtMzon8 {animation: eAhmdJtMzon8_s_do 3000ms linear infinite normal forwards}@keyframes eAhmdJtMzon8_s_do { 0% {stroke-dashoffset: 82.06} 33.333333% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}} #eAhmdJtMzon9 {animation: eAhmdJtMzon9_s_do 3000ms linear infinite normal forwards}@keyframes eAhmdJtMzon9_s_do { 0% {stroke-dashoffset: 10.79} 16.666667% {stroke-dashoffset: 10.79} 43.333333% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}}
+]]></style>
+    <g clip-path="url(#eAhmdJtMzon10)">
+        <g>
+            <path d="M30.1667,32.429l5.354,10.2244-7.7442-2.1221-2.677,7.6201-5.9276-11.3819"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"
+                stroke-miterlimit="10" />
+            <path d="M6.83448,32.429L1.48047,42.6534l7.74419-2.1221l2.67704,7.6201l5.9276-11.3819"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"
+                stroke-miterlimit="10" />
+            <path
+                d="M22.7571,1.48267C30.5013,3.4118,36.2377,10.4531,36.2377,18.8449c0,9.935-7.9354,17.9409-17.7829,17.9409s-17.782925-8.0059-17.782925-17.9409c0-8.3918,5.736415-15.4331,13.480625-17.36223"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M19.4082,0.964567c0,.578743-.3824.964563-.956.964563-.5737,0-.9561-.38582-.9561-.964563s.3824-.964567.9561-.964567c.5736,0,.956.385827.956.964567Z"
+                fill="#fff" />
+            <path id="eAhmdJtMzon8"
+                d="M18.4557,32.0338c-7.1705,0-13.00258-5.8838-13.00258-13.1181s5.83208-13.11809,13.00258-13.11809s13.0026,5.88389,13.0026,13.11809-5.832,13.1181-13.0026,13.1181Z"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="82.06" stroke-dasharray="82.06" />
+            <path id="eAhmdJtMzon9" d="M16.5898,14.4736h1.9122v8.874" fill="none" stroke="#fff"
+                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="10.79" stroke-dasharray="10.79" />
+        </g>
+        <clipPath id="eAhmdJtMzon10">
+            <rect width="37" height="49" rx="0" ry="0" fill="#fff" />
+        </clipPath>
+    </g>
+</svg>

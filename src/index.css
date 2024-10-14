@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 1.5s ease-out forwards;
+  }
+  @keyframes slideIn {
+    0% {
+      transform: translateX(-60%);
+      opacity: 0;
+      -webkit-transform: translateX(-60%);
+      -moz-transform: translateX(-60%);
+      -ms-transform: translateX(-60%);
+      -o-transform: translateX(-60%);
+}
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  .slide-in {
+    animation: slideIn 1s ease-out forwards;
+  }
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-fade-in-up {
+    opacity: 0;
+    animation: fadeInUp 1s forwards;
+    -webkit-animation: fadeInUp 1s forwards;
+}
+  
+  .delay-1 {
+    animation-delay: 0.5s;
+  }
+  
+  .delay-2 {
+    animation-delay: 1s;
+  }
+  
+  .delay-3 {
+    animation-delay: 1.5s;
+  }
+  
+  .delay-4 {
+    animation-delay: 2s;
+  }
+
+  .custom-list {
+    list-style-position: inside; /* Ensures bullets stay aligned with the text */
+    padding-left: 0;
+  }
+  
+  .custom-list li {
+    text-indent: -1.5em; /* Adjust the value to control indentation */
+    padding-left: 1.5em; /* Align text with the bullet */
+  }
+  

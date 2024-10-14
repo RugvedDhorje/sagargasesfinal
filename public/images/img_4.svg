@@ -1,0 +1,83 @@
+<!-- <svg id="eiv1ZDyFjue1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 48 45" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style><![CDATA[
+#eiv1ZDyFjue10 {animation: eiv1ZDyFjue10_s_do 5000ms linear infinite normal forwards}@keyframes eiv1ZDyFjue10_s_do { 0% {stroke-dashoffset: 56.03} 18% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}} #eiv1ZDyFjue11 {animation: eiv1ZDyFjue11_s_do 5000ms linear infinite normal forwards}@keyframes eiv1ZDyFjue11_s_do { 0% {stroke-dashoffset: 9.52} 14% {stroke-dashoffset: 9.52} 32% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}}
+]]></style>
+    <g clip-path="url(#eiv1ZDyFjue12)">
+        <g>
+            <path
+                d="M41.5304,40.2815h4.1967c.8743,0,1.5738-.699,1.5738-1.5728v-4.2816c0-1.6602-1.1366-3.1456-2.7104-3.5825l-7.8688-2.2718c-.5246-.1748-1.0492-.4369-1.5738-.6991l-7.7814-5.0679c-1.3115-.8738-2.7979-1.4855-4.4591-1.7476-4.9836-.7864-10.142-.0874-14.60105,2.1845-1.83606.9611-3.5847,2.0971-5.15847,3.4951L1.39925,28.2233c-.612023.5242-.96175,1.3106-.96175,2.097v8.4758c0,.8738.69945,1.5728,1.57377,1.5728h3.93443"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path d="M14.3398,40.2817h19.0602" fill="none" stroke="#365888" stroke-width="1.5"
+                stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M7.51953,23.5923l2.79777,2.7961c1.1367,1.1359,2.7979,1.835,4.4591,1.835h21.4207"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M10.2304,44.3884c2.2695,0,4.1093-1.8387,4.1093-4.1068s-1.8398-4.1068-4.1093-4.1068-4.10931,1.8387-4.10931,4.1068s1.8398,4.1068,4.10931,4.1068Z"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M37.5077,44.3882c2.2695,0,4.1093-1.8387,4.1093-4.1068s-1.8398-4.1068-4.1093-4.1068-4.1093,1.8386-4.1093,4.1068s1.8398,4.1068,4.1093,4.1068Z"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path d="M22.1211,34.427h3.9344" fill="none" stroke="#365888" stroke-width="1.5"
+                stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+            <path id="eiv1ZDyFjue10"
+                d="M38.379,18.5242c4.9253,0,8.918-3.9903,8.918-8.9126s-3.9927-8.912625-8.918-8.912625-8.9181,3.990315-8.9181,8.912625s3.9928,8.9126,8.9181,8.9126Z"
+                fill="none" stroke="#365888" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" stroke-dashoffset="56.03"
+                stroke-dasharray="56.03" />
+            <path id="eiv1ZDyFjue11" d="M34.8828,9.17469l2.7104,2.70871l4.0219-4.01939" fill="none"
+                stroke="#365888" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="9.52" stroke-dasharray="9.52" />
+        </g>
+        <clipPath id="eiv1ZDyFjue12">
+            <rect width="48" height="45" rx="0" ry="0" fill="#fff" />
+        </clipPath>
+    </g>
+</svg> -->
+
+<svg id="eiv1ZDyFjue1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 48 45" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style><![CDATA[
+#eiv1ZDyFjue10 {animation: eiv1ZDyFjue10_s_do 5000ms linear infinite normal forwards}@keyframes eiv1ZDyFjue10_s_do { 0% {stroke-dashoffset: 56.03} 18% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}} #eiv1ZDyFjue11 {animation: eiv1ZDyFjue11_s_do 5000ms linear infinite normal forwards}@keyframes eiv1ZDyFjue11_s_do { 0% {stroke-dashoffset: 9.52} 14% {stroke-dashoffset: 9.52} 32% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}}
+]]></style>
+    <g clip-path="url(#eiv1ZDyFjue12)">
+        <g>
+            <path
+                d="M41.5304,40.2815h4.1967c.8743,0,1.5738-.699,1.5738-1.5728v-4.2816c0-1.6602-1.1366-3.1456-2.7104-3.5825l-7.8688-2.2718c-.5246-.1748-1.0492-.4369-1.5738-.6991l-7.7814-5.0679c-1.3115-.8738-2.7979-1.4855-4.4591-1.7476-4.9836-.7864-10.142-.0874-14.60105,2.1845-1.83606.9611-3.5847,2.0971-5.15847,3.4951L1.39925,28.2233c-.612023.5242-.96175,1.3106-.96175,2.097v8.4758c0,.8738.69945,1.5728,1.57377,1.5728h3.93443"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path d="M14.3398,40.2817h19.0602" fill="none" stroke="#fff" stroke-width="1.5"
+                stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M7.51953,23.5923l2.79777,2.7961c1.1367,1.1359,2.7979,1.835,4.4591,1.835h21.4207"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M10.2304,44.3884c2.2695,0,4.1093-1.8387,4.1093-4.1068s-1.8398-4.1068-4.1093-4.1068-4.10931,1.8387-4.10931,4.1068s1.8398,4.1068,4.10931,4.1068Z"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M37.5077,44.3882c2.2695,0,4.1093-1.8387,4.1093-4.1068s-1.8398-4.1068-4.1093-4.1068-4.1093,1.8386-4.1093,4.1068s1.8398,4.1068,4.1093,4.1068Z"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path d="M22.1211,34.427h3.9344" fill="none" stroke="#fff" stroke-width="1.5"
+                stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+            <path id="eiv1ZDyFjue10"
+                d="M38.379,18.5242c4.9253,0,8.918-3.9903,8.918-8.9126s-3.9927-8.912625-8.918-8.912625-8.9181,3.990315-8.9181,8.912625s3.9928,8.9126,8.9181,8.9126Z"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" stroke-dashoffset="56.03"
+                stroke-dasharray="56.03" />
+            <path id="eiv1ZDyFjue11" d="M34.8828,9.17469l2.7104,2.70871l4.0219-4.01939" fill="none"
+                stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="9.52" stroke-dasharray="9.52" />
+        </g>
+        <clipPath id="eiv1ZDyFjue12">
+            <rect width="48" height="45" rx="0" ry="0" fill="#fff" />
+        </clipPath>
+    </g>
+</svg>

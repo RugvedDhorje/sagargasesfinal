@@ -1,0 +1,31 @@
+<svg id="euSxqQ3yhsD1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 39 46" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style><![CDATA[
+#euSxqQ3yhsD4 {animation: euSxqQ3yhsD4_s_do 3000ms linear infinite normal forwards}@keyframes euSxqQ3yhsD4_s_do { 0% {stroke-dashoffset: 57.84} 26.666667% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}} #euSxqQ3yhsD8 {animation: euSxqQ3yhsD8_s_do 3000ms linear infinite normal forwards}@keyframes euSxqQ3yhsD8_s_do { 0% {stroke-dashoffset: 12.39} 23.333333% {stroke-dashoffset: 12.39} 50% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 0}}
+]]></style>
+    <g clip-path="url(#euSxqQ3yhsD9)">
+        <g>
+            <path id="euSxqQ3yhsD4"
+                d="M19.0673,7.59204c-5.109,0-9.30558,4.10876-9.30558,9.11066s4.19658,9.1107,9.30558,9.1107s9.3055-4.1087,9.3055-9.1107-4.1054-9.11066-9.3055-9.11066Z"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" stroke-dashoffset="57.84"
+                stroke-dasharray="57.84" />
+            <path d="M7.75523,27.5105L0.730469,39.5688l7.207221-.6253l2.91941,6.4311l8.302-14.0233"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path d="M30.8374,27.5105l7.116,12.0583-7.2072-.6253-3.0106,6.4311-8.302-14.0233"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path
+                d="M32.7539,20.6329c-.1824.1786-.2736.4466-.2736.7145l.6386,4.5554c.0912.4466-.2737.8932-.7299.9825l-4.6527.8039c-.2737.0893-.4562.1786-.6387.4466l-2.1895,4.1087c-.1825.4466-.7298.536-1.186.3573l-4.2878-2.0544c-.2737-.0893-.5474-.0893-.8211,0l-4.2879,2.0544c-.4561.1787-.9123,0-1.186-.3573l-2.1895-4.1087c-.0912-.268-.3649-.3573-.6386-.4466l-4.65277-.8039c-.36493-.0893-.63862-.5359-.54739-.9825l.63862-4.5554c0-.2679-.09123-.5359-.27369-.7145L2.19166,17.328c-.36492-.3573-.36492-.8932,0-1.1611l3.28431-3.3942c.18246-.1787.27369-.4466.27369-.7146L5.11104,7.41346c-.09123-.4466.2737-.8932.72985-.98252l4.65281-.80388c.2736-.08932.4561-.17864.6386-.44661l2.1895-4.10873c.1825-.446606.7299-.535926,1.186-.357285L18.7956,2.7688c.2737.08932.5474.08932.8211,0l4.1054-2.054365c.4562-.178641.9123,0,1.186.357285l2.1895,4.10873c.0913.26797.365.35729.6387.44661l4.6527.80388c.4562.08932.8211.53592.7299.98252l-.6386,4.55534c0,.268.0912.5359.2736.7146l3.2844,3.3048c.3649.3573.3649.8932,0,1.1612l-3.2844,3.4835Z"
+                fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+                stroke-linejoin="round" stroke-miterlimit="10" />
+            <path id="euSxqQ3yhsD8" d="M14.5977,16.6134l2.9193,2.8582l6.0213-5.7165" fill="none"
+                stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                stroke-miterlimit="10" stroke-dashoffset="12.39" stroke-dasharray="12.39" />
+        </g>
+        <clipPath id="euSxqQ3yhsD9">
+            <rect width="38.6818" height="46" rx="0" ry="0" fill="#fff" />
+        </clipPath>
+    </g>
+</svg>

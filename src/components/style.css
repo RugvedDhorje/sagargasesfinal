@@ -1,0 +1,12 @@
+.industry-slider .slick-slide {
+    padding: 0 65px; /* Adjust the padding as needed for the desired gap */
+  }
+  
+  .industry-slider .slick-list {
+    margin: 0 -15px; /* Adjust to match the padding */
+  }
+  
+  .industry-slider .slick-track {
+    display: flex;
+    align-items: center;
+  }
